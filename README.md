@@ -19,19 +19,12 @@ https://app.prodcamp.com/products/
 
 6. In order to identify current user you need to provide the data in the following format:
 `<script>
-
     ProdCamp('init', {
-    
         email: 'janedoe@prodcamp.com',
-        
         companyName: 'ProdCamp',
-        
         firstName: 'Jane',
-        
         lastName: 'Doe',
-        
     });
-    
 </script>`
 
 For more questions check our help:
